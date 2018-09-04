@@ -1,0 +1,9 @@
+2018-09-04 17:05:16.7174 [DEBUG] Scene Fusion version 1.8.1-0
+2018-09-04 17:05:40.5279 [DEBUG] Web request login error: Invalid email
+2018-09-04 17:05:54.7802 [DEBUG] Web request login error: Invalid credentials
+2018-09-04 17:06:06.7151 [DEBUG] Connecting
+2018-09-04 17:06:06.7371 [DEBUG] Connecting to room (81223:SceneFusion:SceneFusion) via TCP at ec2-52-43-42-38.us-west-2.compute.amazonaws.com:1027
+2018-09-04 17:15:52.7951 [DEBUG] Sent D:/Projects/ProjectZone#2/KSEditorLogs/SessionLogs/session.81223-636716775667671688.log
+2018-09-04 17:16:07.5208 [DEBUG] Connecting
+2018-09-04 17:16:07.5298 [DEBUG] Connecting to room (81223:SceneFusion:SceneFusion) via TCP at ec2-52-43-42-38.us-west-2.compute.amazonaws.com:1027
+2018-09-04 17:17:32.1937 [DEBUG] Sent D:/Projects/ProjectZone#2/KSEditorLogs/SessionLogs/session.81223-636716781675328771.log
